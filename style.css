@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    background-color: rgb(234, 227, 242);
+}
+.image{
+    width:200px;
+    
+    border:1px solid black;
+}
+h1{
+    font-style: italic;
+}
+
+p{
+   
+    width:500px;
+    
+}
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.contact{
+    margin:20px;
+}
